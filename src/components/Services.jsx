@@ -93,8 +93,8 @@ const Services = () => {
             </svg>
           </h2>
           <p className="text-gray-500 text-base md:text-lg max-w-sm font-medium leading-relaxed">
-            We follow a structured, creative, and highly technical approach to turn your ideas into robust full-stack applications.
-          </p>
+  I specialize in Cyber Security, Full Stack Development, Software Engineering, and Problem Solving.
+        </p>
         </div>
 
         {/* Desktop SVG Animated Dashed Line */}
@@ -175,19 +175,19 @@ const Services = () => {
           
           <TagCard 
             number="01"
-            title="Define"
-            text="We start by understanding your goals, user requirements, and technical constraints to lay a rock-solid foundation for the project."
+            title="Programming"
+            text="Java, Python, JavaScript, Data Structures & Algorithms."
             className="md:absolute md:top-[10px] md:right-[5%] lg:right-[10%] rotate-2 md:rotate-6"
             aosType="fade-left"
             aosDelay="100"
             pathLength={pathLength}
             containerRef={containerRef}
-          />
+         />
 
           <TagCard 
             number="02"
-            title="Design"
-            text="Creating intuitive, pixel-perfect user interfaces and wireframes that guarantee an engaging and accessible user experience."
+            title="Frontend"
+            text="React.js, HTML5, CSS3, Tailwind CSS, Responsive Web Design."
             className="md:absolute md:top-[450px] md:left-[5%] lg:left-[10%] -rotate-2 md:-rotate-6"
             aosType="fade-right"
             aosDelay="200"
@@ -197,8 +197,8 @@ const Services = () => {
 
           <TagCard 
             number="03"
-            title="Build"
-            text="Developing scalable frontend architectures and secure backend systems using the latest modern tech stack."
+            title="Backend"
+            text="Node.js, Express.js, Spring Boot, REST APIs, JWT Authentication."
             className="md:absolute md:top-[700px] md:right-[5%] lg:right-[15%] rotate-1 md:rotate-3"
             aosType="fade-left"
             aosDelay="300"
@@ -208,8 +208,8 @@ const Services = () => {
 
           <TagCard 
             number="04"
-            title="Launch"
-            text="Rigorous testing, optimization, and seamless deployment to cloud infrastructure, followed by ongoing support."
+            title="Cyber Security"
+            text="Ethical Hacking, Network Security, Vulnerability Assessment, Linux, OWASP."
             className="md:absolute md:top-[1050px] md:left-[15%] lg:left-[25%] -rotate-1 md:-rotate-3"
             aosType="fade-right"
             aosDelay="400"
