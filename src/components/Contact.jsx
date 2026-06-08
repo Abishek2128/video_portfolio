@@ -35,6 +35,49 @@ const Contact = () => {
           <div className="text-xs font-bold tracking-[0.2em] mb-12 md:mb-20 uppercase opacity-90">
             Reach Us
           </div>
+          <div className="mb-10">
+  <h2 className="text-4xl font-bold mb-4">Abishek Kumar S</h2>
+
+  <p className="text-lg mb-2">
+    Cyber Security & Full Stack Developer
+  </p>
+
+  <p className="text-lg mb-2">
+  📧{" "}
+  <a
+    href="mailto:a00857920@gmail.com"
+    className="text-blue-400 hover:underline"
+  >
+    a00857920@gmail.com
+  </a>
+</p>
+
+<p className="text-lg mb-2">
+  📱{" "}
+  <a
+    href="tel:+919344192344"
+    className="text-blue-400 hover:underline"
+  >
+    +91 93441 92344
+  </a>
+</p>
+
+<p className="text-lg mb-2">
+  📍 Chennai, Tamil Nadu
+</p>
+
+<p className="text-lg">
+  GitHub:{" "}
+  <a
+    href="https://github.com/Abishek2128"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="text-blue-400 hover:underline"
+  >
+    github.com/Abishek2128
+  </a>
+</p>
+</div>
 
           <form className="flex flex-col gap-12 md:gap-16 w-full">
             <div className="flex flex-col md:flex-row gap-12 md:gap-20 w-full">
